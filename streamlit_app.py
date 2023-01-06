@@ -45,10 +45,6 @@ except URLError as e:
   streamlit.error()
 
 
-streamlit.stop()
-
-
-
  
 streamlit.header("fruit load list contains:")
 #sf related functions
